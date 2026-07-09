@@ -1,0 +1,6 @@
+{
+  "name": "TechnoSport Run Pass Pro",
+  "description": "Digital entry pass and registration system for the TechnoSport Mysore Road Run, with Google Sheets synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
